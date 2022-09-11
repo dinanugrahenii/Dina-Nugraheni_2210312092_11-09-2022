@@ -5,10 +5,10 @@
 |---|:-------:|------:|
 |1. |Nama     | Dina Nugraheni |
 |2.| NIM        | 2210312092 |
-|3. |Link github | https://edabit.com/user/Bpa8YppJ72SXuJtRz |
-|4.| Link Edabit |  |
-|5|Exp Edabit   |   |
-|6| Link Codewars|    |
+|3. |Link github | https://github.com/dinanugrahenii |
+|4.| Link Edabit | https://edabit.com/user/Bpa8YppJ72SXuJtRz |
+|5|Exp Edabit   | 85 |
+|6| Link Codewars| https://www.codewars.com/users/dinanugrahenii |
 |7| Level Jyu Codewars||
 
 Isilah biodata diatas dan updatelah setiap minggunya,
